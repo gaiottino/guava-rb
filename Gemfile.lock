@@ -1,0 +1,14 @@
+PATH
+  remote: .
+  specs:
+    guava-rb (09)
+
+GEM
+  remote: http://rubygems.org/
+  specs:
+
+PLATFORMS
+  java
+
+DEPENDENCIES
+  guava-rb!
