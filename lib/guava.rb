@@ -2,4 +2,4 @@
 
 require 'java'
 
-require 'ext/guava-r09'
+require 'ext/guava-10.0.jar'

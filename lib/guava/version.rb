@@ -1,5 +1,5 @@
 # encoding: utf-8
 
 module Guava
-  VERSION = '09'
+  VERSION = '10.0.0'
 end
